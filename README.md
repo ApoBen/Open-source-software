@@ -1,7 +1,7 @@
 # Open-source-software
  Open-source software fosters collaboration, learning, and innovation while excelling in quality, security, and customization options, providing cost and dependency advantages.
 
--Open-source software fosters collaboration and learning. Developers can learn from each other, generate new ideas, and collaborate on solving shared challenges.
+-[]Open-source software fosters collaboration and learning. Developers can learn from each other, generate new ideas, and collaborate on solving shared challenges.
 -Open-source software excels in terms of quality and security. With its transparent nature, it allows for extensive scrutiny, enabling easier identification and resolution of errors, security vulnerabilities, and malicious code.
 -Open-source software offers customization and improvement options to meet user requirements.
 -Open-source software provides cost and dependency advantages. It is often freely available or offered at minimal cost, eliminating the need for expensive licensing fees and reducing reliance on specific vendors or platforms.
